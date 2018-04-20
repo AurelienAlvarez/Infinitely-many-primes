@@ -3,6 +3,8 @@
 (*******************************************************)
 (* Euclid's proof *)
 (******************)
+(* Coq file largely inspired by a proof given by Frédéric Blanqui in a blog discussion *)
+(***************************************************************************************)
 
 
 Require Import Arith Omega.
